@@ -2,7 +2,7 @@
 1) run ConvolutionalPreprocessing.py.
 2) You should now be able to run MNIST_nLayer and MNIST_CNN :)
 
-NOTE: I apologize for the bad coding style.  I coded these back when I was still "new" to coding and did not write them with the intention of looking back on them or having others read them :(.  Also, most 
+NOTE: I apologize for the bad coding style.  I coded these back when I was still "new" to coding and did not write them with the intention of looking back on them or having others read them :(.
 
 Other than a few lines of code (specified in each file), all code in nLayer and CNN were written by mine.  No API's were used.
 If you run the code, you probably won't achieve the accuracies mentioned below because 1) I don't know what batch size and number of iterations I used 2) I have these values set low so that the files don't take too long to run.
