@@ -1,4 +1,5 @@
 # Running the code:
+REQUIRES MATPLOTLIB
 1) run ConvolutionalPreprocessing.py.
 2) You should now be able to run MNIST_nLayer and MNIST_CNN :)
 
